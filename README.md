@@ -14,5 +14,5 @@ Steps to follow:
  - Install LMDz with the CIF and choose the footprint mode 
  - Run the CIF with the bash scripts: launch_adjoin.sh and launch_adjoinref.sh
 
-
+ListDamagedFiles.py: script to detect the netcdf files containing damaged footprints
    
